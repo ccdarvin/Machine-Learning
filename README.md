@@ -7,4 +7,4 @@ All the code has been written by me and it is different from the one in the cour
 
 ## Update
 
-In this repository just the first and second courses are available, the third course is not available because this content is as articles or tutorials on entredata.org[https://entredata.org]
+In this repository just the first and second courses are available, the third course is not available because this content is as articles or tutorials in [entreda.org](https://entreda.org).
