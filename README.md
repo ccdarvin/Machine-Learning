@@ -4,3 +4,7 @@ these are my notes machine learning specialization on Coursera, these are just a
 
 All the code has been written by me and it is different from the one in the course, but it is based on the course.
 
+
+## Update
+
+In this repository just the first and second courses are available, the third course is not available because this content is as articles or tutorials on entredata.org[https://entredata.org]
